@@ -7,6 +7,9 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=7F7FD5&center=true&vCenter=true&width=600&lines=Turning+ideas+into+clean+interfaces;Building+real+front-end+projects;Learning+by+creating+and+experimenting" />
+</p>
 
 ## About Me
 
