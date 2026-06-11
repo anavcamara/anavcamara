@@ -76,8 +76,6 @@ A narrative game built in Bitsy exploring the history of computing in an interac
 
 - 📧 Email: anacamaradev@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/analuiza-camara  
-- 💻 GitHub: https://github.com/anavcamara  
-
 ---
 
 <p align="center">
